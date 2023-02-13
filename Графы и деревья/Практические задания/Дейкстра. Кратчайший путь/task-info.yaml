@@ -1,0 +1,18 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 693
+    length: 181
+    placeholder_text: '...  # TODO вернуть стоимость путей до всех вершин посчитанных
+      алгоритмом Дейкстры'
+  - offset: 908
+    length: 238
+    placeholder_text: '...  # TODO записать граф'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false

@@ -1,0 +1,17 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 285
+    length: 318
+    placeholder_text: '...  # TODO вычислить sin(x) с помощью разложения сумму бесконечного
+      ряда'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: img.png
+  visible: true

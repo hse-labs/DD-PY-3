@@ -1,0 +1,19 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 451
+    length: 3
+    placeholder_text: '...  # TODO c помощью функции из модуля networkx найти стоимость
+      кратчайшего пути до последней лестницы'
+  - offset: 557
+    length: 3
+    placeholder_text: '...  # TODO записать взвешенный граф, а лучше написать функцию,
+      которая формирует граф по стоимости ступеней'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false

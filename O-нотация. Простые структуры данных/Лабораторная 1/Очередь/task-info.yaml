@@ -1,0 +1,30 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 204
+    length: 3
+    placeholder_text: '...  # TODO инициализировать список'
+  - offset: 386
+    length: 3
+    placeholder_text: '...  # TODO реализовать метод enqueue'
+  - offset: 613
+    length: 3
+    placeholder_text: '...  # TODO реализовать метод dequeue'
+  - offset: 1098
+    length: 3
+    placeholder_text: '...  # TODO реализовать метод peek'
+  - offset: 1173
+    length: 3
+    placeholder_text: '...  # TODO реализовать метод clear'
+  - offset: 1257
+    length: 3
+    placeholder_text: '...  # TODO реализовать метод __len__'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+solution_hidden: false

@@ -1,0 +1,15 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 280
+    length: 3
+    placeholder_text: '...  # TODO реализовать проверку скобочной группы'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+solution_hidden: false

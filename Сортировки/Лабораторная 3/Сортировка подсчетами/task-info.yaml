@@ -1,0 +1,16 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 486
+    length: 3
+    placeholder_text: '...  # TODO реализовать алгоритм сортировки подсчетами'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: counting_sort.gif
+  visible: true

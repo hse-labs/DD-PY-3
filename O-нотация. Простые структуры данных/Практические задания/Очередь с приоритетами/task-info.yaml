@@ -1,0 +1,29 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 258
+    length: 146
+    placeholder_text: '...  # TODO использовать deque для реализации очереди с приоритетами'
+  - offset: 679
+    length: 42
+    placeholder_text: '...  # TODO реализовать метод enqueue'
+  - offset: 945
+    length: 173
+    placeholder_text: '...  # TODO реализовать метод dequeue'
+  - offset: 1686
+    length: 296
+    placeholder_text: '...  # TODO реализовать метод peek'
+  - offset: 2054
+    length: 68
+    placeholder_text: '...  # TODO реализовать метод clear'
+  - offset: 2203
+    length: 111
+    placeholder_text: '...  # TODO реализовать метод __len__'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false

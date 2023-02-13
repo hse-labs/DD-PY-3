@@ -1,0 +1,26 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 263
+    length: 24
+    placeholder_text: '...  # TODO реализовать операцию push'
+  - offset: 501
+    length: 125
+    placeholder_text: '...  # TODO реализовать операцию pop'
+  - offset: 1098
+    length: 291
+    placeholder_text: '...  # TODO реализовать операцию peek'
+  - offset: 1459
+    length: 19
+    placeholder_text: '...  # TODO реализовать операцию clear'
+  - offset: 1564
+    length: 23
+    placeholder_text: '...  # TODO реализовать операцию __len__'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false

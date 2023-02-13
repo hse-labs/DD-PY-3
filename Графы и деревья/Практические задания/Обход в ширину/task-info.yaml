@@ -1,0 +1,18 @@
+type: edu
+files:
+- name: __init__.py
+  visible: false
+- name: tests/test_task.py
+  visible: false
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 561
+    length: 584
+    placeholder_text: '...  # TODO реализовать обход в ширину'
+  - offset: 1179
+    length: 379
+    placeholder_text: '...  # TODO записать граф с помощью модуля networkx и проверить
+      обход в ширину'
+- name: tests/__init__.py
+  visible: false
