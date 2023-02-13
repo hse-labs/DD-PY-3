@@ -1,9 +1,6 @@
 venv/
 .idea/
 
-.coursecreator/
-*.zip
-
 output.json
 
 *.txt
