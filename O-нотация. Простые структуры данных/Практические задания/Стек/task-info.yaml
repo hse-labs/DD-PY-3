@@ -18,6 +18,9 @@ files:
   - offset: 1564
     length: 23
     placeholder_text: '...  # TODO реализовать операцию __len__'
+  - offset: 70
+    length: 16
+    placeholder_text: '...  # TODO использовать python list для реализации стека'
 - name: tests/test_task.py
   visible: false
 - name: __init__.py
