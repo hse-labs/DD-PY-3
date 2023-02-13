@@ -16,3 +16,4 @@ files:
   visible: false
 - name: tests/__init__.py
   visible: false
+solution_hidden: true

@@ -16,3 +16,4 @@ files:
       обход в ширину'
 - name: tests/__init__.py
   visible: false
+solution_hidden: true

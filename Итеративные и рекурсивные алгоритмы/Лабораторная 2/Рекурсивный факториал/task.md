@@ -2,7 +2,7 @@
 и **номер** текущего члена последовательности
 
 Рекуррентная формула для факториала:
-![img.png](img.png)
+![https://drive.google.com/file/d/1ZeW8lJKaZVMKvzkIfyB_qqremXCFAN4M/view?usp=share_link](https://drive.google.com/uc?id=1ZeW8lJKaZVMKvzkIfyB_qqremXCFAN4M)
 
 При решении нельзя пользоваться никакими уже реализованными решениями, которое сразу дают ответ.
 Алгоритм должен быть реализован самостоятельно.

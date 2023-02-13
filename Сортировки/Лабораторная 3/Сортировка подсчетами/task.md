@@ -3,7 +3,7 @@
 Отсортируйте массив целых не отрицательных чисел.  
 Гарантируется, что минимальный элемент равен 0. Максимальный элемент может меняться.
 
-![counting_sort.gif](counting_sort.gif)
+![https://drive.google.com/file/d/1qa-9j25vaLRvaQYdda5FJhR4CxubH2qb/view?usp=share_link](https://drive.google.com/uc?id=1qa-9j25vaLRvaQYdda5FJhR4CxubH2qb)
 
 При решении нельзя пользоваться никакими уже реализованными решениями, которое сразу дают ответ.
 Алгоритм должен быть реализован самостоятельно.

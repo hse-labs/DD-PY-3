@@ -4,7 +4,7 @@
 Процесс повторяется, пока весь массив не будет отсортирован.  
 В худшем случае сложность алгоритма O(n^2)
 
-![bubble_sort.gif](bubble_sort.gif)
+![https://drive.google.com/file/d/1B7tLPml3YkMCS4wsn0ZR8Urw-smiXuTC/view?usp=share_link](https://drive.google.com/uc?id=1B7tLPml3YkMCS4wsn0ZR8Urw-smiXuTC)
 
 Оптимизация сортировки пузырьком включает в себя несколько способов улучшение алгоритма, чтобы исключить лишние проходы по элементам массива.  
 
